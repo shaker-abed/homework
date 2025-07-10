@@ -29,13 +29,12 @@
     height: 30px;
     padding: 8px 15px;
 }
-.card p{
-    color: black;
-    font-size:x-large;
-    font-weight: bold;
-    margin-bottom: 30px;
-}
 .card h3{
+    color: black;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.card p{
     margin-bottom: 40px;
 }
 .navbar{
